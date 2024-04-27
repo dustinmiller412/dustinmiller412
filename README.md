@@ -2,7 +2,7 @@
 <h2>👨🏻 About Me</h2>
 <p> 
         <h1>A Little Bit About Me</h1>
-        <h2>Passionate Technologist | Aspiring Software Developer | Coffee Enthusiast</h2>
+        <h2>Passionate Technologist | Software Developer | Coffee Enthusiast</h2>
         <p>Hello there! I'm Dustin Miller, and I want to share my journey with you. My life has been a fusion of finance, technology, and the art of espresso.</p>
         <h3>My Story</h3>
         <p>For nearly seven years, I carved out a successful career in wealth management. Yet, despite the accomplishments and accolades, I couldn't shake the feeling that something was missing. It was during this time that I rediscovered my lifelong passion for technology.</p>

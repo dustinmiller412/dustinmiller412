@@ -2,21 +2,20 @@
 <h2>👨🏻 About Me</h2>
 <p> 
         <h1>A Little Bit About Me</h1>
-        <h2>Passionate Technologist | Software Developer | Coffee Enthusiast</h2>
-        <p>Hello there! I'm Dustin Miller, and I want to share my journey with you. My life has been a fusion of finance, technology, and the art of espresso.</p>
-        <h3>My Story</h3>
-        <p>For nearly seven years, I carved out a successful career in wealth management. Yet, despite the accomplishments and accolades, I couldn't shake the feeling that something was missing. It was during this time that I rediscovered my lifelong passion for technology.</p>
-        <p>In collaboration with a friend on various tech projects, I had an epiphany. I realized how deeply I was drawn to the world of software development. The thrill of solving complex problems, the joy of creating something new, and the constant learning resonated with me on a profound level.</p>
-        <h3>The Transition</h3>
-        <p>That's when I decided to make a significant pivot in my career. I'm currently on an exciting journey to become a software developer. My background in wealth management has equipped me with essential skills - analytical thinking, effective communication, and an unyielding attention to detail. These attributes, combined with my unwavering passion for technology and lifelong learning, make me a unique candidate in the field.</p>
+        <h2>Software Developer | Board Game Geek | Coffee Roaster</h2>
+        <p>Hi there! I'm Dustin Miller, and I'm excited to share a little about myself with you. My world is a mix of tech, board games, and a serious love for espresso.</p>
+        <h3>A Bit About My Journey</h3>
+        <p>For almost seven years, I built a career in wealth management. It was rewarding, sure, but something was missing. That "aha" moment hit when I started working on tech projects with a friend. I realized how much I loved solving problems, building new things, and learning constantly. It sparked my decision to dive headfirst into software development.</p>
+        <h3>Making the Leap</h3>
+        <p>Switching careers wasn’t easy, but it’s been incredibly fulfilling. My experience in finance taught me skills like critical thinking, clear communication, and an eye for detail – all of which are pretty handy in tech! Now, I’m combining those strengths with my passion for coding, and it feels like the perfect fit.</p>
         <h3>Beyond the Code</h3>
-        <p>When I'm not immersed in coding or enhancing my technical skills, you can often find me pursuing another passion - coffee. I'm not just your average coffee drinker; I'm a bona fide coffee enthusiast. I indulge in the art of roasting coffee beans and dive deep into the intricate world of espresso. It's a sensory experience that complements the logical and creative aspects of my life in technology.</p>
+        <p>When I’m not deep into code, I’m usually diving into one of two passions: coffee and board games. Coffee isn’t just a drink for me—it’s a hobby and an art. From roasting my own beans to perfecting the ultimate espresso shot, I love exploring every part of the process. It’s a blend of creativity and precision that feels oddly similar to coding.</p>
+<p>Whether it’s strategizing over a complex eurogame, delving into the epic adventures of a dungeon crawler, or laughing through a fast-paced party game, I love the variety and connection that board games bring. Each one offers a unique mix of challenge, teamwork, and fun that keeps me coming back for more.</p>
+<p>Both hobbies give me a chance to unplug, connect with people, and recharge my creativity. They’re my perfect balance to the logical, structured world of software development.</p>
         <h3>Let's Connect</h3>
-        <p>I invite you to join me on this exciting journey. Whether you're a fellow tech enthusiast, a coffee lover, or simply curious about the intersection of finance and software development, I'd love to connect with you.</p>
-        <p>Let's explore, learn, and create together. Feel free to reach out, and let's start a conversation.</p>
-        <p>Thank you for visiting my corner of the internet. Let's make technology, innovation, and a good cup of coffee part of our shared experience.</p>
+        <p>Whether you’re into tech, coffee, board games, or just want to connect, I’d love to hear from you. This journey is better shared, and I’m all about learning and creating with others.
 
-</p>
+Thanks for checking out my corner of the internet. Let’s create cool things, share ideas, and enjoy a great cup of coffee along the way.</p>
 
 <h2>🧰 Skills</h2>
 <h4>Object Oriented Programming</h4>

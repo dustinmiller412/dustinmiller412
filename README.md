@@ -1,5 +1,4 @@
 <h1>Hi! I'm Dustin Miller. 👋</h1>
-<h2>👨🏻 About Me</h2>
 <p> 
         <h1>A Little Bit About Me</h1>
         <h2>Software Developer | Board Game Geek | Coffee Roaster</h2>
